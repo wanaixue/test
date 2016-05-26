@@ -7,3 +7,8 @@ import(
 func main(){
     fmt.Println("hello world !")
 }
+
+type People struct{
+    id string
+    name string
+}
